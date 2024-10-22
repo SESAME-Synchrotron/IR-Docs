@@ -18,9 +18,9 @@ sys.path.insert(0, os.path.abspath('.'))
 # -- Project information -----------------------------------------------------
 
 Affiliation = u'SESAME'
-project = 'MS/XPD Scanning Tool'
+project = 'BM02-IR Beamline Documentaion'
 copyright = u'2024, ' + Affiliation
-author = 'SESAME DCA and MS Teams'
+author = 'SESAME DCA and IR Teams'
 
 # If true, sectionauthor and moduleauthor directives will be shown in the
 # output. They are ignored by default.
@@ -40,7 +40,7 @@ texinfo_documents = [
   project+u' Documentation',
   Affiliation, 
   project, 
-  'ID09 - MS/XPD (Materials Science/X-ray Powder Diffraction) Beamline DAQ System'),
+  'BM02 - IR (Infrared Microspectroscopy) Beamline'),
 ]
 
 # -- General configuration ---------------------------------------------------
